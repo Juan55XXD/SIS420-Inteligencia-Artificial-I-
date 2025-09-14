@@ -1,0 +1,4 @@
+Apellidos y Nombre: Vasquez Caiza Juan Marcelo.
+Carrera: Ingeniería en Sistemas.
+
+https://github.com/Juan55XXD/SIS420-Inteligencia-Artificial-I-/tree/main/Laboratorios/Laboratorio5
